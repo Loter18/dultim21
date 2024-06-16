@@ -747,16 +747,20 @@ https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies",ETV BIOSKOP 1 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/123
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies",ETV BIOSKOP 2 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/60
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies ",ETV BIOSKOP 3 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/61
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies",ETV BIOSKOP 4 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/62
  
  
  
