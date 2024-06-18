@@ -1060,12 +1060,14 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
  
 ```````` UEFA EURO 2024 ````````
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="PPTV HD.th" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/233.ts
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 2
 https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro2.m3u8
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="PPTV HD.th" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/238.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
