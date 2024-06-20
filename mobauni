@@ -1056,15 +1056,15 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
  
 ```````` UEFA EURO 2024 ````````
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="PPTV HD.th" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/233.ts
+#EXTVLCOPT:http-user-agent=IE(PC)
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12587
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 2
 https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro2.m3u8
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="PPTV HD.th" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/238.ts
+#EXTVLCOPT:http-user-agent=IE(PC)
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1072,13 +1072,10 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/238.ts
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="Sportstars 3 - [Channel 99].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg",EURO24 - 4
 https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 tvg-id="808.astro" tvg-name="SPOTV STADIA" group-title="UEFA EURO 2024"  tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg",EURO24 - 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
-https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+#EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="PPTV HD.th" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 5
+#EXTVLCOPT:http-user-agent=IE(PC)
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
+
 
  
  
@@ -1094,9 +1091,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
  
 ```````` BSTV | Sports ID ````````
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="BSTV | Sports ID",MOJI
-#EXTVLCOPT:http-referrer=http://210.210.155.37/
-#EXTVLCOPT:http-user-agent=IE(PC)
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/128.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
