@@ -1094,8 +1094,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
  
 ```````` BSTV | Sports ID ````````
 #EXTINF:-1 group-title="BSTV | Sports ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/128.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
