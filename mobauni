@@ -530,15 +530,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Yltbh2eH6nCCEwh4au4IeBK-FNkYSETVxLngkPbcj1igZ__PJa4XVEt-0Jx-sGAx717p1kERzqA=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Kids",UPIN IPIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/67
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/E54CF-MvoDniAjoCWCKAMRDhxKQJXNaKlodP70Gqd-yD68gOX0agxM-IoENlDgiIuDH4bb-8QA=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Kids",DORAEMON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3Q_2tRzpo_2KVg7RsmtYHD4CFwp-o7MAP-g4ifFDiC3q05VYGbDPLEvvXaCtltIM83G878Mk=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Kids",LARVA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/66
  
  
@@ -733,19 +733,19 @@ http://38.47.189.134:1234/stream/astro/astrooasis/master.m3u8?u=hometv&p=23661eb
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies",ETV BIOSKOP 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/123
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies",ETV BIOSKOP 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/60
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies ",ETV BIOSKOP 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/61
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies",ETV BIOSKOP 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/62
  
  
