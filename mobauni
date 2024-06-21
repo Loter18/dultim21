@@ -1110,8 +1110,8 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
  
 ```````` BSTV | Sports ID ````````
 #EXTINF:-1 group-title="BSTV | Sports ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
+#EXTVLCOPT:http-user-agent=IE(PC)
+https://play-hometv.my.id:443/hometv_pro1/29uZCbqH3W/193.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1650,18 +1650,5 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b0
 
 
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://saktitv.my.id/logo/movies1/hbo.png" group-title="MOVIES | 3",HBO HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_id=51816276
-#KODIPROP:inputstream.adaptive.license_key=NGY0NDhhNTUyYmFmMWVkYXfPBs0kQsp9AydHG9ptD6RjyE8LZRadXDvfWfDUmQtl9cAH6xOgGRt7KyG58hbeDneGD9p//ZGNnuxXGMl1aOTz2qL8vW7UumsFIyww0DCmZmFiYWZmMjQ3OGY0MGIwYQ
-#EXTVLCOPT:http-user-agent=Luxury/1.1
-https://luxury.tv/NDYyOGYyYTQzODhlNGM5ZMX9Oz+OCUfiKxCmHQFkGzCjv3Ka8MoaQ/NpxJuP8KjESowZGIivF2U70jGfrHDiEs9s9xo8eqwMR6kn+2TAzGaOBD7KWIy4sV5iwpB4ctP4bkUr4LVnBiFoTvHNSIhfIpQ1BxixyIo2AuZ7V7W826WmXUSR4f6E2SFowdCpwhppMGZhNzY3MDQ3MzU2ODI5MQ
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://saktitv.my.id/logo/movies1/hbosign.png" group-title="MOVIES | 3",HBO Signature HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_id=2555904062
-#KODIPROP:inputstream.adaptive.license_key=YWFiNTcxOWY0N2E1YmYwZfV+Cwehb8sWLIxgLsZbr1KiqmGvcoYVOvxMZKzFzZ6g+h5asv8jvVBeGHtrA0bOIN4C5F84u0pioQaf8U7Nkwqkv6hdbwfUDe01YUGKSz8Ko5px2m3tGX52cRL0P6p6XoWNk5Lk1hp+tFoHqvCg/xVYZfwMTDVgwWFXbqTxcFDcCIpZ4IFzxHR1IemD6mjKY9WgCS5Cmaa6eFk57hot2KxnaLOAJdBCckopok1q7llbAsFYVbVVjdU5ALEY7SmZVMRnEjYFJFMp/BzB7VosniYuE05+5B+yu9mlyb45N0QpNc7NOe3fNK+ZfsbYsHpcxA1NxSCY4Ansl8vKuIy3ZKaOKbKy/5h0wgsN1Bable3k8Y/AnBlA0A50sFJCa48r0Xzn3ypOrE9dngWbLk+1APE3hokG5RqrAjeKTC1YGDlQZGNmNGEzN2IyNjI1OWRhNA
-#EXTVLCOPT:http-user-agent=Luxury/1.1
-https://luxury.tv/OGU0ZGIzYmQ5YmQ3MTA3M9RhngReoO9TW4DeAR4kJuH4B3GLriGf/RUdwP35lgnPcNuiB5/0FQA08Ylf2KTmOeaXQvZkEi6u9AMyhYUxH6vAfnHjPwAWa7vvycm7KtC+2uIBKU98IE9vKDIoINfTrTaB1CRr/O72GjyhDBEeOG1KOSnkPuxTf5f2I6UQRZbEYzJmY2VkMGNkN2RlYmE0MQ
 
