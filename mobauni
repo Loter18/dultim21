@@ -1091,8 +1091,9 @@ https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
  
 ```````` BSTV | Sports ID ````````
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="BSTV | Sports ID",MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
+#EXTVLCOPT:http-referrer=http://210.210.155.37/
+#EXTVLCOPT:http-user-agent=IE(PC)
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/128.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
