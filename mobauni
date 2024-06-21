@@ -1057,14 +1057,14 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 ```````` UEFA EURO 2024 ````````
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="PPTV HD.th" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 1
 #EXTVLCOPT:http-user-agent=IE(PC)
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12587
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/235.ts
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 2
 https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro2.m3u8
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="PPTV HD.th" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 3
 #EXTVLCOPT:http-user-agent=IE(PC)
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/238.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1074,7 +1074,7 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="PPTV HD.th" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 5
 #EXTVLCOPT:http-user-agent=IE(PC)
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/239.ts
 
 
  
@@ -1089,11 +1089,11 @@ https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
 ```````` COPA AMERICA 2024 ````````
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="PPTV HD.th" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg", COPA24 - 1
 #EXTVLCOPT:http-user-agent=IE(PC)
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/238.ts
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="PPTV HD.th" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg", COPA24 - 2
 #EXTVLCOPT:http-user-agent=IE(PC)
-https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12591
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/239.ts
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg", COPA24 - 3
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
