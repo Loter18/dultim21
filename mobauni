@@ -1056,12 +1056,14 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
  
 ```````` UEFA EURO 2024 ````````
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024",EURO 2024 - 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/235.ts
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024", EURO24 - 2
 https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/euro2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024",EURO 2024 - 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/238.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1071,6 +1073,7 @@ https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/238.ts
 https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg" group-title="UEFA EURO 2024",EURO 2024 - 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/239.ts
 
 
@@ -1085,9 +1088,11 @@ https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/239.ts
 
 ```````` COPA AMERICA 2024 ````````
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg" group-title="COPA AMERICA 2024",COPA24 - 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/238.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg" group-title="COPA AMERICA 2024",COPA24 - 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/239.ts
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg", COPA24 - 3
