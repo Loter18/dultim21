@@ -1295,15 +1295,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
  
 #EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ASSP 1
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
  
 #EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",ASSP 2
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59219
  
 #EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASSP 3
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
  
 #EXTINF:-1 group-title="BSTV | Sports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ASSP 4
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
 #EXTINF:-1 group-title="BSTV | Sports" tvg-id="SSC 1" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",SSC 1
@@ -1407,33 +1411,43 @@ https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd
 https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
 
 #EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR169:RMC SPORT 1" tvg-logo="https://yt3.googleusercontent.com/52KycFtU1nQccuCrfZdfP4zCzGLNQg0Hi9hO73gJ_CDmbIiG9mec48kR-n2PZdldw8mE6A641Q=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports",RMC SPORT 1
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28134
  
 #EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR170:RMC SPORT 2" tvg-logo="https://yt3.googleusercontent.com/52KycFtU1nQccuCrfZdfP4zCzGLNQg0Hi9hO73gJ_CDmbIiG9mec48kR-n2PZdldw8mE6A641Q=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports",RMC SPORT 2
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28133
  
 #EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR171:RMC SPORT 3" tvg-logo="https://yt3.googleusercontent.com/52KycFtU1nQccuCrfZdfP4zCzGLNQg0Hi9hO73gJ_CDmbIiG9mec48kR-n2PZdldw8mE6A641Q=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports",RMC SPORT 3
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28132
  
 #EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR172:RMC SPORT 4" tvg-logo="https://yt3.googleusercontent.com/52KycFtU1nQccuCrfZdfP4zCzGLNQg0Hi9hO73gJ_CDmbIiG9mec48kR-n2PZdldw8mE6A641Q=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports",RMC SPORT 4
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28131
  
 #EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR173:RMC SPORT 5" tvg-logo="https://yt3.googleusercontent.com/52KycFtU1nQccuCrfZdfP4zCzGLNQg0Hi9hO73gJ_CDmbIiG9mec48kR-n2PZdldw8mE6A641Q=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports",RMC SPORT 5
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://mohdtv.com:8880/voby1993/8523580cde0057f93644/28130
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SPORTS ★ TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 1
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://xtv.ooo:8080/Faisal0333/Adnan2148703/109983
 
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SPORTS ★ TEN 2 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 2
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://xtv.ooo:8080/Faisal0333/Adnan2148703/109984
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SPORTS ★ TEN 3 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="BSTV | Sports", SONY TEN 3
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://xtv.ooo:8080/Faisal0333/Adnan2148703/109985
 
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="BSTV | Sports",EuroSport 1
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="BSTV | Sports",EuroSport 1
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://tkosportz.live:25461/bsams1962@gmail.com/3022425576/55910
 
-#EXTINF:-1 tvg-id="eurosport.2.nl" tvg-name="NL015:Eurosport 2 HD" tvg-logo="https://media.info/i/lf/0/1447433758/1150.png" group-title="BSTV | Sports",Eurosport 2
+#EXTINF:-1 tvg-id="eurosport.2.nl" tvg-name="NL015:Eurosport 2 HD" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="BSTV | Sports",Eurosport 2
+#EXTVLCOPT:http-user-agent=OTT-Navigator/1.6.5.1 (Linux; Android 9; SM-G970F Build/PPR1.180610.011)
 http://tkosportz.live:25461/bsams1962@gmail.com/3022425576/55911
  
 
