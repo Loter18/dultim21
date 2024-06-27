@@ -1484,8 +1484,9 @@ http://117tv.icu:8080/X5xRz0/944877/35244
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://yt3.googleusercontent.com/lyMRLpFTl9xPjAJXprjgk9Ib8a6o4CxHV6Q0Z-SP35vcwTSJP0TxWs3VqCpRVTpDX8UliMsQ=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | F1/MotoGP", Sky SPORT MOTOGP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56602&extension=ts
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/Loter18/reapon/main/sport/skygp.m3u8
+#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56602&extension=ts
  
  
  
