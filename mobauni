@@ -35,9 +35,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
  
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="htt
-ps://yt3.googleusercontent.com/xNyCNNuBxSShQ65UuNeepuQs-a10bjPOAzqOseBpV5Eh7xFdfZ5-xc-pef_acSnNTv-aH_Q5=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | TV Nasional", NET.
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTINF:-1 tvg-id="13" tvg-logo="https://yt3.googleusercontent.com/xNyCNNuBxSShQ65UuNeepuQs-a10bjPOAzqOseBpV5Eh7xFdfZ5-xc-pef_acSnNTv-aH_Q5=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | TV Nasional", NET.
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
  
