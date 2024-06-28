@@ -1090,37 +1090,20 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
  
  
-```````` UEFA EURO 2024 ````````
-#EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 1
+```````` EURO & COPA ````````
+#EXTINF:-1 group-title="EURO & COPA" tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 #https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/212
 
-#EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 2
+#EXTINF:-1 group-title="EURO & COPA" tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/Loter18/reapon/main/sport/sptda.m3u8
 
-
-
-
-
-
-
-
- 
- 
- 
-
-
-
-
-
-
-```````` COPA AMERICA 2024 ````````
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg" group-title="COPA AMERICA 2024",COPA24 - 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg" group-title="EURO & COPA",COPA24 - 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 #https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/213
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg" group-title="COPA AMERICA 2024",COPA24 - 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg" group-title="EURO & COPA",COPA24 - 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/121
 #https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/169
