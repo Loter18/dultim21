@@ -745,6 +745,7 @@ https://melon-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 https://melon-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
 #EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="BSTV | Movies" tvg-logo="https://i.ytimg.com/vi/kpW60HGA7NI/maxresdefault.jpg",BOO
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android10) 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
