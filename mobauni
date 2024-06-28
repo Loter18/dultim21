@@ -546,15 +546,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Yltbh2eH6nCCEwh4au4IeBK-FNkYSETVxLngkPbcj1igZ__PJa4XVEt-0Jx-sGAx717p1kERzqA=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Kids",UPIN IPIN
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/92
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/67
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/92
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/E54CF-MvoDniAjoCWCKAMRDhxKQJXNaKlodP70Gqd-yD68gOX0agxM-IoENlDgiIuDH4bb-8QA=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Kids",DORAEMON
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/94
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/94
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3Q_2tRzpo_2KVg7RsmtYHD4CFwp-o7MAP-g4ifFDiC3q05VYGbDPLEvvXaCtltIM83G878Mk=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Kids",LARVA
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/91
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/66
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/91
  
  
  
@@ -697,7 +700,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
  
 #EXTINF:-1 group-title="BSTV | Movies" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/PveST7pRORWtjFsDh4_5hZmsRbS24H3LHZFJtsJS0vOJvz_qVc8WMlvZ1BayZ-loUo-9RgcA=s900-c-k-c0x00ffffff-no-rj", WARNER TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/29
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/129
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/29
  
 #EXTINF:0 tvg-id="IMC.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLG--iJaseh71v3IXL8SmwiXRyUSyIho3wg&usqp=CAU" group-title="BSTV | Movies",IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -758,19 +762,23 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies",ETV BIOSKOP 1 
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/66
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/123
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/66
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies",ETV BIOSKOP 2 
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/67
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/60
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/67
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies ",ETV BIOSKOP 3 
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/71
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/61
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/71
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BSTV | Movies",ETV BIOSKOP 4 
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/72
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/62
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/72
  
  
  
@@ -1085,7 +1093,7 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 ```````` UEFA EURO 2024 ````````
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/212
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/212
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/03/996x664/euro-2024_64a76ee.jpg", EURO24 - 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
@@ -1110,11 +1118,12 @@ https://raw.githubusercontent.com/Loter18/reapon/main/sport/sptda.m3u8
 ```````` COPA AMERICA 2024 ````````
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg" group-title="COPA AMERICA 2024",COPA24 - 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/213
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/213
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.shutterstock.com/image-vector/sumenep-indonesia-january-11-2024-600nw-2411113827.jpg" group-title="COPA AMERICA 2024",COPA24 - 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/169
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/121
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/169
 
 
  
@@ -1131,9 +1140,10 @@ https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/169
 ```````` BSTV | Sports ID ````````
 #EXTINF:-1 group-title="BSTV | Sports ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", Moji
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/128
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
+#https://sgn.play-hometv.my.id/SGN-HTV/6EkVZpRJYy/128
 #http://103.155.250.139:25461/v3/Ub5dHa4TJp/4
- 
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/R5hmravzPah-zKq-k9nHKtY-Nn8w3vu3hjU9TP-TdxAuhsTtx9vlis0rnWbzRnkyRpiuuQLD=s900-c-k-c0x00ffffff-no-rj" group-title="BSTV | Sports ID",SpoTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
