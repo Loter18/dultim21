@@ -744,9 +744,13 @@ https://melon-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 group-title="BSTV | Movies" tvg-id="boohd.my" tvg-logo="https://i.ytimg.com/vi/kpW60HGA7NI/maxresdefault.jpg",Boo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://mykingtv.net:2082/Bae810/ktv9399/8457
+#EXTINF:-1 tvg-id="BOO" group-title="BSTV | Movies" tvg-logo="https://i.ytimg.com/vi/kpW60HGA7NI/maxresdefault.jpg",BOO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
 
 #EXTINF:-1 group-title="BSTV | Movies" tvg-id="" tvg-logo="https://i.ytimg.com/vi/oocjeS7eNbE/sddefault.jpg",Maxstream 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
