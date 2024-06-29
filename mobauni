@@ -1565,7 +1565,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
  
 #EXTINF:-1 tvg-logo="https://www.wwe.com/f/styles/gallery_img_ml/public/all/2018/01/20180105_WWE_Astro--aff84cb58337890bda85771538984548.jpg" group-title="BSTV | Golf/Fight", ASTRO GO WWE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/192015.m3u8
  
  
