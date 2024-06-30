@@ -47,12 +47,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
  
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nrUk9Ljy-IvE8guwLy0hu8T8n97SeLs8Y7O8nMmMgh-2w=s900-c-k-c0x00ffffff-no-rj", TRANS TV
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(784e32da-bdac-7794-7122-0989aaf8959e)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nrUk9Ljy-IvE8guwLy0hu8T8n97SeLs8Y7O8nMmMgh-2w=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL",TRANS TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/7
  
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://yt3.googleusercontent.com/9P6JZKyUn1UwfS6ma-0tHH6YHdLbpH5jFUTUPONgWYuHxWLFOkylLP-9xWVZK0N2bp70HYY9Qw=s900-c-k-c0x00ffffff-no-rj", TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bab870e9-ceaa-c720-864e-0cb46a9f5c03)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9P6JZKyUn1UwfS6ma-0tHH6YHdLbpH5jFUTUPONgWYuHxWLFOkylLP-9xWVZK0N2bp70HYY9Qw=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL",TRANS 7
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/6
  
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Y5NY2WFXLWKE5krXFfqXecZpfiwdzlcrmW0kKMaoGOgVgFddSZxbYLH3BDJW6J-ePsLaqdIhng=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL",CNN INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
