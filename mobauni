@@ -1413,7 +1413,8 @@ http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/60572.m3u8
  
 #EXTINF:-1 xui-id="13355" tvg-id="" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lEuwv7O-WkFLzgW0qjwUncBI59UXYOIB8vV9EjGEvYoA=s900-c-k-c0x00ffffff-no-rj" group-title="Tennis | Cricket",Sky Sports Cricket 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://117tv.icu:8080/live/X5xRz0/944877/10513.m3u8
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/5170.m3u8
+#http://117tv.icu:8080/live/X5xRz0/944877/10513.m3u8
 
 
 ######################################## 
@@ -1427,7 +1428,8 @@ http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/30951.m3u8
  
 #EXTINF:-1 xui-id="13358" tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDF3C0A6Zxx37_DKSFEXFnjHbd2pKhjqPD7XaOEy97=s900-c-k-c0x00ffffff-no-rj" group-title="Golf | Fight",Sky Sports Golf 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://117tv.icu:8080/live/X5xRz0/944877/35240.m3u8
+http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/5168.m3u8
+#http://117tv.icu:8080/live/X5xRz0/944877/35240.m3u8
  
 #EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lqpE3XV6yc9Yg7HTb9ijFQ2ZlHX5cDMYdJXy-gFB3EaeU=s900-c-k-c0x00ffffff-no-rj" group-title="Golf | Fight", ZIGGO SPORT GOLF 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
