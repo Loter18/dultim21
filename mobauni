@@ -861,7 +861,7 @@ https://melon-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mvIHQlYealbOtnxSkoFhR5NOnjFiqr7vPRJHsn-dH0P-c=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",KPOP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
   
 #EXTINF:-1   tvg-logo="https://i0.wp.com/musically.com/wp-content/uploads/2018/10/xite.png?w=851&ssl=1" group-title="MUSIC", XITE Hits
@@ -1071,15 +1071,15 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 https://raw.githubusercontent.com/Loter18/reapon/main/sport/sptda.m3u8
  
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORTS", UNIFI SPORTS 🇲🇾
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
  
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",FOX Sports 1 US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 https://6oclock.xyz:8443/live/9rpAZwWZT9/zaGl252Y2w/15907.m3u8
 
 #EXTINF:-1 tvg-id="fs2.us" tvg-name="US: FOX Sports 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",FOX Sports 2 US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://dns.hibrido.club:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10840.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="SPORTS" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 1 
@@ -1140,19 +1140,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ASSP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1722.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",ASSP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/59219.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASSP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1720.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ASSP 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://kmkus.wanicelife.com:8880/live/3ca04303n08/asfefd4wr34/1719.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",SSC 1
@@ -1256,59 +1256,44 @@ https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd
 https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
 
 #EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR169:RMC SPORT 1" tvg-logo="https://yt3.googleusercontent.com/52KycFtU1nQccuCrfZdfP4zCzGLNQg0Hi9hO73gJ_CDmbIiG9mec48kR-n2PZdldw8mE6A641Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",RMC SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/28134.m3u8
  
 #EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR170:RMC SPORT 2" tvg-logo="https://yt3.googleusercontent.com/52KycFtU1nQccuCrfZdfP4zCzGLNQg0Hi9hO73gJ_CDmbIiG9mec48kR-n2PZdldw8mE6A641Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",RMC SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/28133.m3u8
  
 #EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR171:RMC SPORT 3" tvg-logo="https://yt3.googleusercontent.com/52KycFtU1nQccuCrfZdfP4zCzGLNQg0Hi9hO73gJ_CDmbIiG9mec48kR-n2PZdldw8mE6A641Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",RMC SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/28132.m3u8
  
 #EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR172:RMC SPORT 4" tvg-logo="https://yt3.googleusercontent.com/52KycFtU1nQccuCrfZdfP4zCzGLNQg0Hi9hO73gJ_CDmbIiG9mec48kR-n2PZdldw8mE6A641Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",RMC SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/28131.m3u8
  
 #EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR173:RMC SPORT 5" tvg-logo="https://yt3.googleusercontent.com/52KycFtU1nQccuCrfZdfP4zCzGLNQg0Hi9hO73gJ_CDmbIiG9mec48kR-n2PZdldw8mE6A641Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",RMC SPORT 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/28130.m3u8
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SPORTS ★ TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS", SONY TEN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vo01.mohdtv.com:8880/live/ALLChannels18742e81ddf4/46972742/55284.m3u8
-#http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=21070&extension=ts
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29566
 
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SPORTS ★ TEN 2 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS", SONY TEN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vo01.mohdtv.com:8880/live/ALLChannels18742e81ddf4/46972742/55282.m3u8
-#http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=21069&extension=ts
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29565
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SPORTS ★ TEN 3 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS", SONY TEN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vo01.mohdtv.com:8880/live/ALLChannels18742e81ddf4/46972742/55281.m3u8
-#http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=21068&extension=ts
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29564
 
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS",EuroSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vo01.mohdtv.com:8880/live/ALLChannels18742e81ddf4/46972742/31517.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+http://edge02.odtv.az/o7/eurosport/q_0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.2.nl" tvg-name="NL015:Eurosport 2 HD" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS",Eurosport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vo01.mohdtv.com:8880/live/ALLChannels18742e81ddf4/46972742/31516.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARENA 1 PREMIUM | RS" tvg-logo="https://mediadaily.biz/wp-content/uploads/2021/10/arena1.png" group-title="SPORTS",ARENA 1 PREMIUM
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/Loter18/reapon/main/sport/ar1prm.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARENA 2 PREMIUM | RS" tvg-logo="https://mediadaily.biz/wp-content/uploads/2021/10/arena1.png" group-title="SPORTS",ARENA 2 PREMIUM
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/Loter18/reapon/main/sport/ar2prm.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARENA 3 PREMIUM | RS" tvg-logo="https://mediadaily.biz/wp-content/uploads/2021/10/arena1.png" group-title="SPORTS",ARENA 3 PREMIUM
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-https://raw.githubusercontent.com/Loter18/reapon/main/sport/ar3prm.m3u8
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="|PT| SPORT.TV 1 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
@@ -1317,6 +1302,14 @@ https://master-premium.my.id/play/QJ-sa0-6Fu3RJnxWceHj_816aftjRncCrRmEr1FIIQFVgi
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT.TV 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://master-premium.my.id/play/QJ-sa0-6Fu3RJnxWceHj_816aftjRncCrRmEr1FIIQEpPaeA2V8xBxS3POmkD0lv/ts
+
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT.TV 3 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://master-premium.my.id/play/QJ-sa0-6Fu3RJnxWceHj_816aftjRncCrRmEr1FIIQEAjeas4QF6-BbqjdDbddB3/ts
+
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT.TV 3 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://master-premium.my.id/play/QJ-sa0-6Fu3RJnxWceHj_816aftjRncCrRmEr1FIIQEAz3QjbJ_PoCs5PPOy_rkq/ts
 
 
 ####################################### 
@@ -1368,7 +1361,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-026/stream.mpd
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
  
 #EXTINF:-1 xui-id="13356" tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="F1 | MotoGP",Sky Sports F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://117tv.icu:8080/live/X5xRz0/944877/35244.m3u8
  
 #EXTINF:-1 group-title="F1 | MotoGP" tvg-id="TNTSports2.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT SPORTS 2 🇬🇧
@@ -1389,15 +1382,15 @@ http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56602&ext
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uLls0keo9wtSJU2fzO-BLBaSmf60Adv4G-TcKxYhCGMcGvdvFFS4FDpv2YTF_hrjljbrtCTZoA=s900-c-k-c0x00ffffff-no-rj" group-title="Tennis | Cricket", TENNIS CHANNEL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
  
 #EXTINF:-1 xui-id="14631" tvg-id="" tvg-name="UK: Sky Sports Tennis HD" tvg-logo="https://yt3.googleusercontent.com/fk9oXLAKdapE3ZwPClZF0nKR2WDAJMq4cCli7oj71ibZxtBapZtNkbuyaYfAsgucR9LDdolm=s900-c-k-c0x00ffffff-no-rj" group-title="Tennis | Cricket",Sky Sports Tennis 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://mohdtv.com:8880/live/ALLChannels580cde0005cf/83639640/29070.m3u8
   
 #EXTINF:-1 tvg-id="ss.tennis.za" tvg-name="ZA065:SuperSport Tennis" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="Tennis | Cricket",SuperSport Tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/60572.m3u8
  
 #EXTINF:-1 xui-id="13355" tvg-id="" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lEuwv7O-WkFLzgW0qjwUncBI59UXYOIB8vV9EjGEvYoA=s900-c-k-c0x00ffffff-no-rj" group-title="Tennis | Cricket",Sky Sports Cricket 🇬🇧
@@ -1411,7 +1404,7 @@ https://raw.githubusercontent.com/Loter18/reapon/main/sport/sysprtcket.m3u8
 
 
 #EXTINF:-1 tvg-id="golf.cz" tvg-name="CZ032:GOLF CHANNEL" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mU0HWzKv-w7x9w6HNZOqcvt1Ec9J3qGZylIvrJZiEbjpqN=s900-c-k-c0x00ffffff-no-rj" group-title="Golf | Fight",GOLF CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/30951.m3u8
  
 #EXTINF:-1 xui-id="13358" tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDF3C0A6Zxx37_DKSFEXFnjHbd2pKhjqPD7XaOEy97=s900-c-k-c0x00ffffff-no-rj" group-title="Golf | Fight",Sky Sports Golf 🇬🇧
@@ -1426,7 +1419,7 @@ https://raw.githubusercontent.com/Loter18/reapon/main/sport/sysprtcglf.m3u8
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
  
 #EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ntieg44B6v2pgKvGBIzpl6zrFBzPUu7z1Lgu348XXmK5k=s900-c-k-c0x00ffffff-no-rj" group-title="Golf | Fight", FIGHT NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
  
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/224ApIokTZVaz05OcoEvNuIwn1h9HONmd8_fHioyy5_9f9DO-Af-YRJLQ5fvZiKHf8ruzYUuuQ=s900-c-k-c0x00ffffff-no-rj" group-title="Golf | Fight", FIGHT Sports 🇺🇸
