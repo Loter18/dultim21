@@ -1277,23 +1277,26 @@ http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/28130.m3u8
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SPORTS ★ TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS", SONY TEN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=21070&extension=ts
+http://vo01.mohdtv.com:8880/live/ALLChannels18742e81ddf4/46972742/55284.m3u8
+#http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=21070&extension=ts
 
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SPORTS ★ TEN 2 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS", SONY TEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=21069&extension=ts
+http://vo01.mohdtv.com:8880/live/ALLChannels18742e81ddf4/46972742/55282.m3u8
+#http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=21069&extension=ts
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SPORTS ★ TEN 3 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS", SONY TEN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=21068&extension=ts
+http://vo01.mohdtv.com:8880/live/ALLChannels18742e81ddf4/46972742/55281.m3u8
+#http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=21068&extension=ts
 
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS",EuroSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://tkosportz.live:25461/live/bsams1962@gmail.com/3022425576/55910.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels18742e81ddf4/46972742/31517.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.2.nl" tvg-name="NL015:Eurosport 2 HD" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS",Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://tkosportz.live:25461/live/bsams1962@gmail.com/3022425576/55911.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels18742e81ddf4/46972742/31516.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARENA 1 PREMIUM | RS" tvg-logo="https://mediadaily.biz/wp-content/uploads/2021/10/arena1.png" group-title="SPORTS",ARENA 1 PREMIUM
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
@@ -1309,11 +1312,11 @@ https://raw.githubusercontent.com/Loter18/reapon/main/sport/ar3prm.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="|PT| SPORT.TV 1 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://raw.githubusercontent.com/Loter18/reapon/main/sport/sprtv1.m3u8
+https://master-premium.my.id/play/QJ-sa0-6Fu3RJnxWceHj_816aftjRncCrRmEr1FIIQFVginljeuvuPWJz9g0viXV/ts
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT.TV 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://raw.githubusercontent.com/Loter18/reapon/main/sport/sprtv2.m3u8
+https://master-premium.my.id/play/QJ-sa0-6Fu3RJnxWceHj_816aftjRncCrRmEr1FIIQEpPaeA2V8xBxS3POmkD0lv/ts
 
 
 ####################################### 
@@ -1398,9 +1401,8 @@ http://mohdtv.com:8880/live/ALLChannels580cde0005cf/83639640/29070.m3u8
 http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/60572.m3u8
  
 #EXTINF:-1 xui-id="13355" tvg-id="" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lEuwv7O-WkFLzgW0qjwUncBI59UXYOIB8vV9EjGEvYoA=s900-c-k-c0x00ffffff-no-rj" group-title="Tennis | Cricket",Sky Sports Cricket 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/5170.m3u8
-#http://117tv.icu:8080/live/X5xRz0/944877/10513.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/Loter18/reapon/main/sport/sysprtcket.m3u8
 
 
 ######################################## 
@@ -1413,9 +1415,8 @@ http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/5170.m3u8
 http://mohdtv.com:8880/live/voby1993/8523580cde0057f93644/30951.m3u8
  
 #EXTINF:-1 xui-id="13358" tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kDF3C0A6Zxx37_DKSFEXFnjHbd2pKhjqPD7XaOEy97=s900-c-k-c0x00ffffff-no-rj" group-title="Golf | Fight",Sky Sports Golf 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/5168.m3u8
-#http://117tv.icu:8080/live/X5xRz0/944877/35240.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/Loter18/reapon/main/sport/sysprtcglf.m3u8
  
 #EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lqpE3XV6yc9Yg7HTb9ijFQ2ZlHX5cDMYdJXy-gFB3EaeU=s900-c-k-c0x00ffffff-no-rj" group-title="Golf | Fight", ZIGGO SPORT GOLF 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
