@@ -1297,23 +1297,23 @@ http://tkosportz.live:25461/live/bsams1962@gmail.com/3022425576/55911.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARENA 1 PREMIUM | RS" tvg-logo="https://mediadaily.biz/wp-content/uploads/2021/10/arena1.png" group-title="SPORTS",ARENA 1 PREMIUM
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-http://suriesto.com:80/live/shkelqim.halimi/kqJBuHZBfNqumkBFdFNq/31042.m3u8
+https://raw.githubusercontent.com/Loter18/reapon/main/sport/ar1prm.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARENA 2 PREMIUM | RS" tvg-logo="https://mediadaily.biz/wp-content/uploads/2021/10/arena1.png" group-title="SPORTS",ARENA 2 PREMIUM
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-http://suriesto.com:80/live/shkelqim.halimi/kqJBuHZBfNqumkBFdFNq/31043.m3u8
+https://raw.githubusercontent.com/Loter18/reapon/main/sport/ar2prm.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ARENA 3 PREMIUM | RS" tvg-logo="https://mediadaily.biz/wp-content/uploads/2021/10/arena1.png" group-title="SPORTS",ARENA 3 PREMIUM
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-http://suriesto.com:80/live/shkelqim.halimi/kqJBuHZBfNqumkBFdFNq/31044.m3u8
+https://raw.githubusercontent.com/Loter18/reapon/main/sport/ar3prm.m3u8
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="|PT| SPORT.TV 1 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132712.m3u8
+https://raw.githubusercontent.com/Loter18/reapon/main/sport/sprtv1.m3u8
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT.TV 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-http://sky.sportiumvip.xyz:8080/live/TV-23095842/208693635535/132715.m3u8
+https://raw.githubusercontent.com/Loter18/reapon/main/sport/sprtv2.m3u8
 
 
 ####################################### 
