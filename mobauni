@@ -1324,11 +1324,27 @@ http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=5175&deviceMac=00:1A:79:E5:A9
 
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS",EuroSport 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-http://edge02.odtv.az/o7/eurosport/q_0/playlist.m3u8
+#http://edge02.odtv.az/o7/eurosport/q_0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS", EUROSPORT 1 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-031/stream.mpd
 
 #EXTINF:-1 tvg-id="eurosport.2.nl" tvg-name="NL015:Eurosport 2 HD" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS",Eurosport 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="SPORTS", EUROSPORT 2 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-032/stream.mpd
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="|PT| SPORT.TV 1 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
