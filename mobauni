@@ -1415,6 +1415,7 @@ http://117tv.icu:8080/live/X5xRz0/944877/35244.m3u8
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://yt3.googleusercontent.com/lyMRLpFTl9xPjAJXprjgk9Ib8a6o4CxHV6Q0Z-SP35vcwTSJP0TxWs3VqCpRVTpDX8UliMsQ=s900-c-k-c0x00ffffff-no-rj" group-title="F1 | MotoGP", Sky SPORT MOTOGP 🇮🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
