@@ -1498,18 +1498,6 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/192015.m3u8
 ####################################
 
 
-#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", Pluto TV History
-https://i.mjh.nz/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
- 
-#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", Pluto TV Science
-https://i.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
- 
-#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", Pluto TV Adventure
-https://i.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
- 
-#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", Pluto TV Space
-https://i.mjh.nz/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
- 
 #EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="Pluto TV",Nick Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
@@ -1545,13 +1533,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c63118
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="Pluto TV",Pluto TV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
- 
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="Pluto TV", Pluto TV Music
-https://i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
- 
-#EXTINF:-1   tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg" group-title="Pluto TV", Pluto TV K-Pop
-https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
- 
+  
 #EXTINF:-1 group-title="Pluto TV" tvg-logo="https://i.ytimg.com/vi/RgwAnKW6oEE/maxresdefault.jpg", Pluto TV Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
