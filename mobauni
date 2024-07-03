@@ -1414,15 +1414,9 @@ http://117tv.icu:8080/live/X5xRz0/944877/35244.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://yt3.googleusercontent.com/lyMRLpFTl9xPjAJXprjgk9Ib8a6o4CxHV6Q0Z-SP35vcwTSJP0TxWs3VqCpRVTpDX8UliMsQ=s900-c-k-c0x00ffffff-no-rj" group-title="F1 | MotoGP", Sky SPORT MOTOGP 🇮🇹
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
-https://linear306-it-dash1-prd-msg0.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd
-
 #EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://yt3.googleusercontent.com/lyMRLpFTl9xPjAJXprjgk9Ib8a6o4CxHV6Q0Z-SP35vcwTSJP0TxWs3VqCpRVTpDX8UliMsQ=s900-c-k-c0x00ffffff-no-rj" group-title="F1 | MotoGP", Sky SPORT MOTOGP
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
-#http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56602&extension=ts
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:ca:ea:3c&stream=56602&extension=ts
 
 
 
