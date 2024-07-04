@@ -141,6 +141,10 @@ https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyIvEPShyLmfQilk39nazK6A/ts
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyA_78k6nEJqc0pfGuCOLr7k/ts
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nrUk9Ljy-IvE8guwLy0hu8T8n97SeLs8Y7O8nMmMgh-2w=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL",TRANS TV HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyNlAmFVCVjDTkSz4a033UlI/ts
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9P6JZKyUn1UwfS6ma-0tHH6YHdLbpH5jFUTUPONgWYuHxWLFOkylLP-9xWVZK0N2bp70HYY9Qw=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL",TRANS 7 HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyPHU9KTkQOFY02I-CmObCqk/ts
