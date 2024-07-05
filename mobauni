@@ -123,31 +123,31 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/gUlJ6nbaXo-C0nhS9N25SNGloXxUWdrbPZu7bbgwhV-Rauc8vpskbhXSNdUXF2DyMsTHLA6j=s900-c-k-c0x00ffffff-no-rj", RCTI HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyNEftiBYvSpolfBB5C5kUKE/ts
+https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/3.ts
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/UDcf4EQKbOA7ZVCtbZv-5erMgAsOHOF_DvvXXipFM6bFyELsoK4St1ETo_7GRGvQWBvF0Si6PA=s900-c-k-c0x00ffffff-no-rj", GTV HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyFHApQZZZQ4VGVJuUDot_rk/ts
+https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/5.ts
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/-AE54L5cpp9fcxOITp66wVcKXTBFNt0gXU-3dDr2icwDkTs4kn5KR40wfxsGUN78kWFbrUYCOA=s900-c-k-c0x00ffffff-no-rj", MNCTV HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyB0CMFNbUPgNWyHvJgU2eIk/ts
+https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/4.ts
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/qUxrgwLU7Bn52aRap6MmAuy-c0N_E8_SexAiHGAwsYf0AlAbLRDsGuhe4oz-QVjv9068Slgb=s900-c-k-c0x00ffffff-no-rj", SCTV HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyIvEPShyLmfQilk39nazK6A/ts
+https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/2.ts
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/DmXOEDWSKGpiQgbtd4q2v05iSM_H1uUhwJbOIMEGABWOtxikLwXqbgMUFxpZ0ffiqrao2ERwzg=s900-c-k-c0x00ffffff-no-rj", INDOSIAR HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyA_78k6nEJqc0pfGuCOLr7k/ts
+https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/1.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nrUk9Ljy-IvE8guwLy0hu8T8n97SeLs8Y7O8nMmMgh-2w=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL",TRANS TV HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyNlAmFVCVjDTkSz4a033UlI/ts
+https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/8.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9P6JZKyUn1UwfS6ma-0tHH6YHdLbpH5jFUTUPONgWYuHxWLFOkylLP-9xWVZK0N2bp70HYY9Qw=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL",TRANS 7 HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyPHU9KTkQOFY02I-CmObCqk/ts
+https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/9.ts
  
  
 ######################################### 
@@ -1051,7 +1051,7 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
 #EXTINF:-1 group-title="SPORTS ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", Moji
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/play/QDxD1i7w6_EPkdCrwKQeyFiunZq1c2sOCGNC2Rz6cHKUfZFiVUjaVstHRd3D3k82/ts
+https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/14.ts
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="SPORTS ID",Sportstars 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
