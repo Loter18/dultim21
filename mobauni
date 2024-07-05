@@ -1436,12 +1436,9 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/o
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
 http://117tv.icu:8080/live/X5xRz0/944877/35244.m3u8
  
-#EXTINF:-1 group-title="F1 | MotoGP" tvg-id="TNTSports2.uk" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/10/20/6528702006ada_com.bt.btsport.png",TNT SPORTS 2 🇬🇧
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Motogp" tvg-logo="https://i.ytimg.com/vi/n25WvUjB9DE/sddefault.jpg" group-title="F1 | MotoGP",CANAL+ MotoGP
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://master-premium.my.id/play/QJ-sa0-6Fu3RJnxWceHj_816aftjRncCrRmEr1FIIQHeeAdhCFHaljenU64S6KYs/ts
 
 #EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://yt3.googleusercontent.com/lyMRLpFTl9xPjAJXprjgk9Ib8a6o4CxHV6Q0Z-SP35vcwTSJP0TxWs3VqCpRVTpDX8UliMsQ=s900-c-k-c0x00ffffff-no-rj" group-title="F1 | MotoGP", Sky SPORT MOTOGP
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
