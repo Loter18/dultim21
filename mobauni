@@ -101,9 +101,6 @@ https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="mentaritv.id" tvg-logo="https://yt3.googleusercontent.com/VOvxCL8bO_naX0wdWwLOyqFtvg0tmpa2z5WbTzy0Ov871n_cG7CohxaF0NDr0uiPC9uFmZTsUJ4=s900-c-k-c0x00ffffff-no-rj",Mentari TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
  
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://yt3.googleusercontent.com/htHQcmQIsPt3dQUMEooLi4jcgl3JdAqqPdCGxEoQMx6Sm9bMqqJ3kClpEuqlGNok-7U9HmY70Q=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL", NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
- 
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mhUyV8iNg5d_3sAtlPxTioVDSu2YBHr0CnFZdgqd6sJUk=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL", TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -142,6 +139,10 @@ https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/2.ts
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/DmXOEDWSKGpiQgbtd4q2v05iSM_H1uUhwJbOIMEGABWOtxikLwXqbgMUFxpZ0ffiqrao2ERwzg=s900-c-k-c0x00ffffff-no-rj", INDOSIAR HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/1.ts
+
+#EXTINF:-1 group-title="SPORTS ID" tvg-logo="https://yt3.googleusercontent.com/335ahoz5yt7zoKfevmwMNEY5E4swytRsHNdpj4ESmCemstPS1_zQE7xpE61gFNDRxP5Gm8wiaJA=s900-c-k-c0x00ffffff-no-rj", MOJI HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/14.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nrUk9Ljy-IvE8guwLy0hu8T8n97SeLs8Y7O8nMmMgh-2w=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL",TRANS TV HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
@@ -377,6 +378,12 @@ https://testfunctionlive.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 #####################################
 
 
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://yt3.googleusercontent.com/htHQcmQIsPt3dQUMEooLi4jcgl3JdAqqPdCGxEoQMx6Sm9bMqqJ3kClpEuqlGNok-7U9HmY70Q=s900-c-k-c0x00ffffff-no-rj" group-title="KNOWLEDGE", NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://statik.tempo.co/data/2021/09/10/id_1049771/1049771_720.jpg", INDONESIANA TV 🇮🇩
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+
 #EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://www.crimeandinvestigationnetwork.com/assets/images/crimeandinvestigation/generic-thumb.jpg" group-title="KNOWLEDGE", CRIME INVESTIGATION 🇺🇸
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -433,9 +440,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
- 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://statik.tempo.co/data/2021/09/10/id_1049771/1049771_720.jpg", INDONESIANA TV 🇮🇩
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
  
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id=""  tvg-logo="https://styles.redditmedia.com/t5_3j85c/styles/communityIcon_p5zwlwwvn5n51.png", INVESTIGATION DISCOVERY 🇬🇧
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
@@ -522,7 +526,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://yt3.googleusercontent.com/1cyrOm4Y6f959LIjhE2Zwqp77Lts6P_nCBCv0uRsMWTd-JYYY7TBXztNM52G7pJYzk-8g3AS9Nc=s900-c-k-c0x00ffffff-no-rj" tvg-chno="3170" group-title="KIDS" , Baby Shark TV 🇰🇷
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="KIDS", B Kids 🇮🇩
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/bEMPlR.png" group-title="KIDS", B Kids 🇮🇩
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
  
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://images.gmanews.tv/webpics/2022/10/cartoon_network_2_2022_10_18_15_56_46.jpg" group-title="KIDS", CARTOON NETWORK 🇺🇸 🇹🇭
@@ -758,8 +762,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
  
 #EXTINF:-1 group-title="RELIGI" tvg-id="tv10.id" tvg-logo="https://yt3.googleusercontent.com/MMDZNwD6ZX82lMJ6N8QgAB25tVgDgKfzc8RYL0EdOWcotpcBnQeuOX-zYiKps_JFV4X60mDbUgI=s900-c-k-c0x00ffffff-no-rj",TV10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://video1.earthcam.com/myearthcam/d5ef1d7b87b8ac461e3d26b6cd525a60.flv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
  
 #EXTINF:-1 group-title="RELIGI" tvg-id="tarbiyahsunnah.id" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l2To4z_3hrYh-CwcuGjuPrsbb25ncYUMT6xFQtRQ=s900-c-k-c0x00ffffff-no-rj",Tarbiyah Sunnah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -769,10 +773,6 @@ https://ythls.armelin.one/channel/UCM73P3XvOfj0HjC97KKYW5g.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.armelin.one/channel/UCJHC3VbFsp7kJ2NxPGltwiw.m3u8
  
-#EXTINF:-1 group-title="RELIGI" tvg-id="rifqantv.id" tvg-logo="https://www.tvdakwah.com/wp-content/uploads/2019/03/tv-online-rifqan-tv.png",Rifqan TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythls.armelin.one/channel/UCkrLd1cy4AUOp1pAdu1Ru7Q.m3u8
- 
 #EXTINF:-1 group-title="RELIGI" tvg-id="artvisi.id" tvg-logo="https://www.artvisi.or.id/wp-content/uploads/2017/06/LOGO-Artvisi-HD-3100x3400-trans-artvisi.or_.id_.png",ARTVISI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.yufid.com/hls/artvisi.m3u8
@@ -781,7 +781,7 @@ https://streaming.yufid.com/hls/artvisi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.yufid.com/hls/radiokitatv.m3u8
  
-#EXTINF:-1 group-title="RELIGI" tvg-id="surautv.id" tvg-logo="https://www.surautv.id/wp-content/uploads/2024/01/logosurautvvalid.png",Surau TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="surautv.id" tvg-logo="https://yt3.googleusercontent.com/cCTj-Y7iON5jYrbzb8GL2V69TLUE6QOUl5G4OXGkjREe4HnKs1SsJpQI6URLftYGv1UWm_kM=s900-c-k-c0x00ffffff-no-rj",Surau TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
  
@@ -1034,10 +1034,6 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 #######----- SPORTS ID -----#######
 ###################################
 
-
-#EXTINF:-1 group-title="SPORTS ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", Moji
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/live/E503CDC469AA5876D8626ECB76CFB83F/14.ts
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="SPORTS ID",Sportstars 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
