@@ -1391,9 +1391,13 @@ https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/12181
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/12182
 
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT.TV 3 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 4
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i0.wp.com/www.chronicle.ng/wp-content/uploads/2017/06/SuperSport1.jpg", Supersport Action
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/12732
+https://master-stream.my.id/live/DD840A2D76CF7FB3D0923940FFCD1319/286.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i0.wp.com/www.chronicle.ng/wp-content/uploads/2017/06/SuperSport1.jpg", Supersport Football
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://master-stream.my.id/live/DD840A2D76CF7FB3D0923940FFCD1319/287.ts
 
 
 ####################################### 
@@ -1450,7 +1454,7 @@ http://117tv.icu:8080/live/X5xRz0/944877/35244.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Motogp" tvg-logo="https://i.ytimg.com/vi/n25WvUjB9DE/sddefault.jpg" group-title="F1 | MotoGP",CANAL+ MotoGP
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/live/2379A1AE311E5F344036A993BCA7374D/26.ts
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/12106
 
 #EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://yt3.googleusercontent.com/lyMRLpFTl9xPjAJXprjgk9Ib8a6o4CxHV6Q0Z-SP35vcwTSJP0TxWs3VqCpRVTpDX8UliMsQ=s900-c-k-c0x00ffffff-no-rj" group-title="F1 | MotoGP", Sky SPORT MOTOGP
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
