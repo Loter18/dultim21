@@ -553,6 +553,20 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
+#EXTINF:-1 group-title="KIDS" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Yltbh2eH6nCCEwh4au4IeBK-FNkYSETVxLngkPbcj1igZ__PJa4XVEt-0Jx-sGAx717p1kERzqA=s900-c-k-c0x00ffffff-no-rj", UPIN IPIN
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/67
+
+#EXTINF:-1 group-title="KIDS" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/E54CF-MvoDniAjoCWCKAMRDhxKQJXNaKlodP70Gqd-yD68gOX0agxM-IoENlDgiIuDH4bb-8QA=s900-c-k-c0x00ffffff-no-rj", DORAEMON
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/68
+
+#EXTINF:-1 group-title="KIDS" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/pRU-1KdbO8zDDHI4_-6Q8Y7ok1TgNOwY2jB9L80DE0tUJYj3H6azydQ-g8flxNxfKXEenzr-=s900-c-k-c0x00ffffff-no-rj", LARVA
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/66
+
+
+
   
 ################################## 
 #######------ MOVIES ------#######
@@ -750,6 +764,22 @@ https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.ytimg.com/vi/oocjeS7eNbE/sddefault.jpg",Maxstream 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dItuKrzpNn141ox57I3FuMJJlrv1zA4fYWnVuK5ulgCvm46Hik8SOrgKVMUEYMvztmErsHKImA=s900-c-k-c0x00ffffff-no-rj", Bioskop Action
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/123
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dItuKrzpNn141ox57I3FuMJJlrv1zA4fYWnVuK5ulgCvm46Hik8SOrgKVMUEYMvztmErsHKImA=s900-c-k-c0x00ffffff-no-rj", Bioskop Thriller
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/60
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dItuKrzpNn141ox57I3FuMJJlrv1zA4fYWnVuK5ulgCvm46Hik8SOrgKVMUEYMvztmErsHKImA=s900-c-k-c0x00ffffff-no-rj", Bioskop Horror
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/61
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dItuKrzpNn141ox57I3FuMJJlrv1zA4fYWnVuK5ulgCvm46Hik8SOrgKVMUEYMvztmErsHKImA=s900-c-k-c0x00ffffff-no-rj", Bioskop Horror
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/62
 
 
 ################################## 
@@ -1351,19 +1381,19 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-032/stream.mpd
 
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="|PT| SPORT.TV 1 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/live/2379A1AE311E5F344036A993BCA7374D/19.ts
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/12180
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT.TV 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/live/2379A1AE311E5F344036A993BCA7374D/20.ts
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/12181
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT.TV 3 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/live/2379A1AE311E5F344036A993BCA7374D/21.ts
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/12182
 
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="|PT| SPORT.TV 3 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ec81041602882.5600f19fb1dee.jpg" group-title="SPORTS",SPORT.TV 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://master-premium.my.id/live/2379A1AE311E5F344036A993BCA7374D/22.ts
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/12732
 
 
 ####################################### 
