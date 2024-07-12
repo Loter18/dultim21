@@ -781,6 +781,10 @@ https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/61
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/62
 
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dItuKrzpNn141ox57I3FuMJJlrv1zA4fYWnVuK5ulgCvm46Hik8SOrgKVMUEYMvztmErsHKImA=s900-c-k-c0x00ffffff-no-rj", Bioskop China
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/124
+
 
 ################################## 
 #######------ RELIGI ------#######
