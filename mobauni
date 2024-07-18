@@ -735,23 +735,23 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dItuKrzpNn141ox57I3FuMJJlrv1zA4fYWnVuK5ulgCvm46Hik8SOrgKVMUEYMvztmErsHKImA=s900-c-k-c0x00ffffff-no-rj", Bioskop Action
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/123
+#https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/123
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dItuKrzpNn141ox57I3FuMJJlrv1zA4fYWnVuK5ulgCvm46Hik8SOrgKVMUEYMvztmErsHKImA=s900-c-k-c0x00ffffff-no-rj", Bioskop Thriller
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/60
+#https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/60
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dItuKrzpNn141ox57I3FuMJJlrv1zA4fYWnVuK5ulgCvm46Hik8SOrgKVMUEYMvztmErsHKImA=s900-c-k-c0x00ffffff-no-rj", Bioskop Horror
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/61
+#https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/61
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dItuKrzpNn141ox57I3FuMJJlrv1zA4fYWnVuK5ulgCvm46Hik8SOrgKVMUEYMvztmErsHKImA=s900-c-k-c0x00ffffff-no-rj", Bioskop Indonesia
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/62
+#https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/62
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dItuKrzpNn141ox57I3FuMJJlrv1zA4fYWnVuK5ulgCvm46Hik8SOrgKVMUEYMvztmErsHKImA=s900-c-k-c0x00ffffff-no-rj", Bioskop China
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/124
+#https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/124
 
 
 ################################## 
