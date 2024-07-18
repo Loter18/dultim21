@@ -1132,19 +1132,19 @@ http://dns.hibrido.club:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10840.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="SPORTS" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 1 
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.178.153.48/live/DD840A2D76CF7FB3D0923940FFCD1319/324.ts
+https://master-stream.my.id/live/DD840A2D76CF7FB3D0923940FFCD1319/324.ts
 
 #EXTINF:-1 tvg-id="beINSports2.qa" group-title="SPORTS" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 2 
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.178.153.48/live/DD840A2D76CF7FB3D0923940FFCD1319/325.ts
+https://master-stream.my.id/live/DD840A2D76CF7FB3D0923940FFCD1319/325.ts
 
 #EXTINF:-1 tvg-id="beINSports3.qa" group-title="SPORTS" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 3 
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.178.153.48/live/DD840A2D76CF7FB3D0923940FFCD1319/326.ts
+https://master-stream.my.id/live/DD840A2D76CF7FB3D0923940FFCD1319/326.ts
 
 #EXTINF:-1 tvg-id="beINSports4.qa" group-title="SPORTS" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 4 
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.178.153.48/live/DD840A2D76CF7FB3D0923940FFCD1319/327.ts
+https://master-stream.my.id/live/DD840A2D76CF7FB3D0923940FFCD1319/327.ts
 
 #EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1e8qv74kj9ru71k69jmgy26gow_image-header_pRow_1690455045000" group-title="SPORTS" , DAZN COMBAT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
