@@ -1123,13 +1123,13 @@ https://raw.githubusercontent.com/Loter18/reapon/main/sport/sptda.m3u8
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
  
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",FOX Sports 1 US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://45.129.84.23:8080/live/adastream2023/Bye5XZwQ8d5Cbs5/300620.ts
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/Loter18/reapon/main/sport/fxspt1.m3u8
 
 #EXTINF:-1 tvg-id="fs2.us" tvg-name="US: FOX Sports 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",FOX Sports 2 US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://45.129.84.23:8080/live/adastream2023/Bye5XZwQ8d5Cbs5/300621.ts
-#http://dns.hibrido.club:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10840.ts
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/Loter18/reapon/main/sport/fxspt2.m3u8
+
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="SPORTS" tvg-logo="https://logowik.com/content/uploads/images/167_bein_sports.jpg", beIN Sports 1 
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
