@@ -755,10 +755,6 @@ https://103.160.62.230/win_htv@lite/n5zcaJ2Gwk/124
 ##################################
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="madanitv.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Madani_TV.jpg",Madani TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
- 
 #EXTINF:-1 group-title="RELIGI" tvg-id="tv10.id" tvg-logo="https://yt3.googleusercontent.com/MMDZNwD6ZX82lMJ6N8QgAB25tVgDgKfzc8RYL0EdOWcotpcBnQeuOX-zYiKps_JFV4X60mDbUgI=s900-c-k-c0x00ffffff-no-rj",TV10
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
@@ -778,10 +774,6 @@ https://streaming.yufid.com/hls/artvisi.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-id="tvsunnah.id" tvg-logo="https://play-lh.googleusercontent.com/vt2D1EZ6xsxmh6jwNQL3Nh1AYGFhFX2jjCURiGCGwLrKbF9lEjHb7v5Ycj8-YmhhN8U",TV Sunnah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.yufid.com/hls/radiokitatv.m3u8
- 
-#EXTINF:-1 group-title="RELIGI" tvg-id="surautv.id" tvg-logo="https://yt3.googleusercontent.com/cCTj-Y7iON5jYrbzb8GL2V69TLUE6QOUl5G4OXGkjREe4HnKs1SsJpQI6URLftYGv1UWm_kM=s900-c-k-c0x00ffffff-no-rj",Surau TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
  
 #EXTINF:-1 group-title="RELIGI" tvg-id="izzahtv.id" tvg-logo="https://bajo.jumbomark.com/labels/JID2020046062",Izzah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
