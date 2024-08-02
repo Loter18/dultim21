@@ -38,9 +38,10 @@ https://melon-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://yt3.googleusercontent.com/DmXOEDWSKGpiQgbtd4q2v05iSM_H1uUhwJbOIMEGABWOtxikLwXqbgMUFxpZ0ffiqrao2ERwzg=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL",Indosiar 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DmXOEDWSKGpiQgbtd4q2v05iSM_H1uUhwJbOIMEGABWOtxikLwXqbgMUFxpZ0ffiqrao2ERwzg=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL",Indosiar
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
  
 #EXTINF:-1 tvg-id="13" tvg-logo="https://yt3.googleusercontent.com/xNyCNNuBxSShQ65UuNeepuQs-a10bjPOAzqOseBpV5Eh7xFdfZ5-xc-pef_acSnNTv-aH_Q5=s900-c-k-c0x00ffffff-no-rj" group-title="TV NASIONAL", NET.
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
