@@ -546,11 +546,11 @@ https://103.178.153.48/live/28A28DC289AA42B5466950727F3EA888/359.ts
  
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="MOVIES",HBO Family
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.178.153.48/live/28A28DC289AA42B5466950727F3EA888/362.ts
+https://103.178.153.48/live/28A28DC289AA42B5466950727F3EA888/361.ts
  
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="MOVIES",HBO Hits
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://103.178.153.48/live/28A28DC289AA42B5466950727F3EA888/361.ts
+https://103.178.153.48/live/28A28DC289AA42B5466950727F3EA888/362.ts
  
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="MOVIES",HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
