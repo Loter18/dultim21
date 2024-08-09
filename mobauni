@@ -702,17 +702,24 @@ https://melon-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/kpW60HGA7NI/maxresdefault.jpg",BOO
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android10) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
-
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.ytimg.com/vi/oocjeS7eNbE/sddefault.jpg",Maxstream 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg", MOVIE ACTION
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.196.152.138/win_htv@lite/Y6gMYnZdGp/68
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg", MOVIE CHINA
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.196.152.138/win_htv@lite/Y6gMYnZdGp/69
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg", MOVIE HORROR
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.196.152.138/win_htv@lite/Y6gMYnZdGp/71
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg", MOVIE INDONESIA
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://103.196.152.138/win_htv@lite/Y6gMYnZdGp/72
 
 
 ################################## 
@@ -1134,19 +1141,19 @@ https://103.196.152.138/win_htv@lite/Y6gMYnZdGp/339
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ASSP 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-http://vo01.mohdtv.com:8880/live/voby0897/2q8wq9a5/1722.ts
+http://152.89.62.76:8880/live/D12m1495/23236986/1722.ts
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://farm3.static.flickr.com/2706/4101283686_6ca896592c.jpg",ASSP 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-http://vo01.mohdtv.com:8880/live/voby0897/2q8wq9a5/1721.ts
+http://152.89.62.76:8880/live/D12m1495/23236986/1721.ts
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASSP 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-http://vo01.mohdtv.com:8880/live/voby0897/2q8wq9a5/1720.ts
+http://152.89.62.76:8880/live/D12m1495/23236986/1720.ts
  
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ASSP 4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.3
-http://vo01.mohdtv.com:8880/live/voby0897/2q8wq9a5/1719.ts
+http://152.89.62.76:8880/live/D12m1495/23236986/1719.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
