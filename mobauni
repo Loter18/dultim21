@@ -705,19 +705,19 @@ https://melon-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://i.ytimg.com/vi/oocjeS7eNbE/sddefault.jpg",Maxstream 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg", MOVIE ACTION
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://cdn.vectorstock.com/i/preview-1x/35/22/cinema-projection-unit-neon-sign-glowing-vector-31063522.jpg", MOVIE ACTION
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://103.196.152.138/win_htv@lite/Y6gMYnZdGp/68
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg", MOVIE CHINA
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://cdn.vectorstock.com/i/preview-1x/35/22/cinema-projection-unit-neon-sign-glowing-vector-31063522.jpg", MOVIE CHINA
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://103.196.152.138/win_htv@lite/Y6gMYnZdGp/69
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg", MOVIE HORROR
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://cdn.vectorstock.com/i/preview-1x/35/22/cinema-projection-unit-neon-sign-glowing-vector-31063522.jpg", MOVIE HORROR
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://103.196.152.138/win_htv@lite/Y6gMYnZdGp/71
 
-#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg", MOVIE INDONESIA
+#EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-logo="https://cdn.vectorstock.com/i/preview-1x/35/22/cinema-projection-unit-neon-sign-glowing-vector-31063522.jpg", MOVIE INDONESIA
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://103.196.152.138/win_htv@lite/Y6gMYnZdGp/72
 
